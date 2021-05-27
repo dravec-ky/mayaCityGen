@@ -1,5 +1,6 @@
 # mayaCityGen
 A python script for procedural city generation within Maya
+
 ![thumbnail](https://github.com/dravec-ky/mayaCityGen/blob/main/src/CG_thumbnail.png)
 
 This python script does 2 main tasks:
