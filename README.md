@@ -1,7 +1,7 @@
 # mayaCityGen
-A python script for procedural city generation within Maya
-
 ![thumbnail](https://github.com/dravec-ky/mayaCityGen/blob/main/src/CG_thumbnail.png)
+
+A python script for procedural city generation within Maya.
 
 This python script does 2 main tasks:
 1. Procedurally generates a street layout according to the directional constrains placed by the 
